@@ -1,0 +1,2 @@
+Prefix plugins/SeparateAbundance/example/
+Plugin SeparateAbundance inputfile parameters.txt outputfile out
